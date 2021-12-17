@@ -1,0 +1,19 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "Just tools",
+  "main": "index.js",
+  "scripts": {
+    "updatePM": "node update-list-project-manager.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VSerain/tools.git"
+  },
+  "author": "Victor Serain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VSerain/tools/issues"
+  },
+  "homepage": "https://github.com/VSerain/tools#readme"
+}
